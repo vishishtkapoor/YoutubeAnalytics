@@ -14,8 +14,6 @@ Also, KSqlDB was used for stream processing and the processed data is then sent 
 7. [Contributing](#contributing)
 8. [Video](https://youtu.be/2Q4QX6Z3QZo)
 
-## System Architecture
-![YoutubeAnalytics architecture.png](assets%2FYoutubeAnalytics%20architecture.png)
 
 ## Requirements
 
@@ -69,6 +67,3 @@ Also, KSqlDB was used for stream processing and the processed data is then sent 
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## Video
-
-[![YoutubeAnalytics](https://img.youtube.com/vi/0aqSjJ3-4NI/0.jpg)](https://youtu.be/0aqSjJ3-4NI)
